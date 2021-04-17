@@ -1,3 +1,3 @@
-# SixpenceStudio-NugetServer
+# NugetServer
 
 Nuget服务器
